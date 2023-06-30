@@ -5,16 +5,22 @@ body{
 
 h1{
     font-size: 80px;
+    margin-bottom: -15px;
 }
 
 p{
     font-size: 30px;
+    
 }
 
 .hero{
     text-align: center;
 }
 
-background{
-    url:("C:\Users\GIBREEL\Documents\GitHub\WEB-1\assets\images\man.jpg")
+.man{
+    display:flex;
+    position: relative;
+    max-width: 70%;
+    margin-left: auto;
+    
 }
