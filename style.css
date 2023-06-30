@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 242, 124);
+}
+
+h1{
+    font-size: 80px;
+}
+
+p{
+    font-size: 30px;
+}
+
+.hero{
+    text-align: center;
+}
+
+background{
+    url:("C:\Users\GIBREEL\Documents\GitHub\WEB-1\assets\images\man.jpg")
+}
